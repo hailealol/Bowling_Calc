@@ -1,0 +1,15 @@
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\bin\Debug\Bowling Calc App.exe.config
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\bin\Debug\Bowling Calc App.exe
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\bin\Debug\Bowling Calc App.pdb
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling Calc App.csproj.AssemblyReference.cache
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\MainWindow.g.cs
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\App.g.cs
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling Calc App_MarkupCompile.cache
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling Calc App_MarkupCompile.lref
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\MainWindow.baml
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling Calc App.g.resources
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling_Calc_App.Properties.Resources.resources
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling Calc App.csproj.GenerateResource.cache
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling Calc App.csproj.CoreCompileInputs.cache
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling Calc App.exe
+C:\Users\Reynolds_Hailea\Desktop\Code\Bowling Calc App\obj\Debug\Bowling Calc App.pdb
